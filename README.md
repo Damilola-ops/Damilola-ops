@@ -1,8 +1,9 @@
-### Hi there 👋 , I'm Damilola, A computer engineering undergrad at the university of Lagos . 
-I'm a software engineer with special interests in Machine Learning(NLP)
+### Hi there 👋 , I'm Damilola, A Computer Engineering undergrad at the university of Lagos . 
+I'm a software engineer with specific interests in Machine Learning(NLP)
 
 
 Tools:
+
 
 Python 
 PyTorch 
@@ -11,7 +12,3 @@ AWS
 Kubernetes 
 Kubeflow 
 Mlflow 
-
-
-
-
