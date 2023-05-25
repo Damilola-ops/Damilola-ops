@@ -16,8 +16,8 @@ In my free time , I play football , learn about Art , Astronomy , Biology, Histo
 
 <p align="left">
  <b>🧑🏾‍💻 Programming Language</b>: Python, C++ , <br>
- <b>      Deep Learning Frameworks : Pytorch 
-<br> <b>🛠 Data Tool</b>: PySpark, Pandas,, Redpanda, QGis, dbt, Airflow, EMR, Airbyte<br>
+ <br> <b>      Deep Learning Frameworks : Pytorch </b> <br> 
+<br> <b>🛠 Data Tool</b>: PySpark, Pandas,
 <br> <b>🏠 Transactional Databases</b>: Postgres, Cassandra, DynamoDB<br>
 <br> <b>🏛 Data Warehouse</b>: Amazon  Redshift, Snowflake, <br>
 <br> <b>☁️ Cloud</b>: AWS, <br>
