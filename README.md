@@ -7,7 +7,7 @@
 
 In my free time , I play football , learn about Art , Astronomy , Biology, History  and Music 
 
-Skills: Python  / Pytorch  /c++ / 
+Skills: Python  / Pytorch  / C++ / 
 
 
 - 🔭 I’m currently working on this page. 
