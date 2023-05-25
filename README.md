@@ -1,11 +1,18 @@
-### Hi there 🖐 I'm Damilola , I'm a software engineer with expertise in deep learning , reinforcement learning and machine learning engineering 
 
+### Hi there 👋, I'm Damilola  
 
+#### Software Engineering and Machine Learning . 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damilojohn)](https://github.com/anuraghazra/github-readme-stats)
 
+In my free time , I play football , learn about Art , Astronomy , Biology, History  and Music 
 
-In my free time , I play football , learn about art , astronomy , Biology, History  and music 
+Skills: Python  / Pytorch  /c++ / 
+
+
+- 🔭 I’m currently working on this page. 
+
+
 
 
 
