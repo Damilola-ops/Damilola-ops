@@ -5,7 +5,7 @@
 
 I'm a machine learning engineer with broad-ranging interests in machine learning ranging from natural language processing to reinforcement learning. 
 
-I'm currently working on a side project [Playlist Generator](https://github.com/damilojohn/Playlist_Generator). An app that generates afrobeat playlists based on text inputs. </h2>
+I'm currently working on a side project [Playlist Generator](https://github.com/damilojohn/Playlist_Generator). An app that generates afrobeat playlists based on text inputs using semantic search. </h2>
 
 I also wrote a blog post about [byte pair encoding tokenization algorithm](https://medium.com/@oduguwadamilola40/byte-pair-encoding-the-tokenization-algorithm-powering-large-language-models-5055fbdc0153)
 
