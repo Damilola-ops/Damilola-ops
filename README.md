@@ -12,10 +12,9 @@ I also wrote a blog post about [byte pair encoding tokenization algorithm](https
 My projects and blog posts  can be found on my [portfolio website](https://damilojohn.github.io/)
 
 
-I play football and learn about Art, Astronomy, Biology, History, and Music in my free time.
-
 <h2 >Some things about me...</h2>
 - 🌱 I’m learning about Deep Reinforcement Learning  and optimizing transformers during training and inference. <br><br> 
+-  🎨 I play football and learn about Art, Astronomy, Biology, History, and Music in my free time.
 
 
 <h2>Tech Stack</h2>
