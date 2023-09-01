@@ -10,7 +10,7 @@ I recently wrote a blog post about [byte pair encoding tokenization algorithm](h
 
 My projects and blog posts  can be found on my [portfolio website](https://damilojohn.github.io/)
 
-Currently contributing at [Ivy](github.com/unifyai/ivy) and helping to build a transpilation engine for transpiling code between deep learning frameworks.
+Currently contributing at [Ivy](https://github.com/unifyai/ivy) and helping to build a transpilation engine for transpiling code between deep learning frameworks.
 
 
 <h2 >Some things about me...</h2>
