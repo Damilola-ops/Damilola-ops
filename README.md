@@ -6,7 +6,7 @@ I'm a machine learning engineer with broad-ranging interests in machine learning
 
 I'm currently working on a side project [Zeno](https://zeeno.vercel.app). An app that lets you find books about a given text description. </h2>
 
-I recently wrote a blog post about [byte pair encoding tokenization algorithm](https://medium.com/@oduguwadamilola40/byte-pair-encoding-the-tokenization-algorithm-powering-large-language-models-5055fbdc0153)
+I recently wrote a blog post about [byte pair encoding](https://medium.com/@oduguwadamilola40/byte-pair-encoding-the-tokenization-algorithm-powering-large-language-models-5055fbdc0153)
 
 My projects and blog posts  can be found on my [portfolio website](https://damilojohn.github.io/)
 
