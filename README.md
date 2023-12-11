@@ -28,6 +28,9 @@ Currently contributing at [Ivy](https://github.com/unifyai/ivy) and helping to b
 <br> <b>☁️ Cloud</b>: AWS <br>
 <br> <b>🛠 MLOps</b>: Docker, Terraform, Git, MLflow , Bash <br>
 
+Tou can contact me at :
+@oduguwadamilola40@gmail.com
+
 
 
 
